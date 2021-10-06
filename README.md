@@ -59,14 +59,27 @@
 A website where medicine, healthcare and babycare products can be bought online, and many more 
 features like upload prescription, online chat, read articles, refund, etc.
 
-In the 9th semester at my university, I took the **System Analysis and Design** course, where
+In the 10th semester at my university, I took the **System Analysis and Design** course, where
 we had given the task to create a website following the SDLC method. I and my group members
 developed the website named **Online Pharmacy** that could help people buy medicines and other 
 necessary goods online. We designed the website with quite a lot of features and ended up
 completing almost all the features that we proposed while designing the website. All the codes
 along with the Database (.sql file) of the project is stored in this repository.
 
+---
+## Project Report: 
 
+### Topics of report: 
+[SAD FINAL REPORT](https://github.com/lmottasin/Online-Pharmacy-SAD/files/7290614/SAD.FINAL.REPORT.pdf)
+
+* Project Proposal
+* Benchmark Analysis
+* Feasibility Analysis
+* Project Management Tools
+* UML Diagrams
+* Screenshots of the project
+
+---
 ## Features of **Online Pharmacy**
 ### Users: 
 * Registration
@@ -80,7 +93,9 @@ along with the Database (.sql file) of the project is stored in this repository.
 * Reward
 * Refund
 * Order History
+
 ### Admin: 
+* Authenticaton from database
 * Profile (CRUD)
 * Dashboard (Total user, Total post, Total product, Recent Order, Active User)
 * Statistics (Revenue, Order, Sell)
