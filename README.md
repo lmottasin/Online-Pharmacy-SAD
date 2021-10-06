@@ -68,13 +68,25 @@ along with the Database (.sql file) of the project is stored in this repository.
 
 
 ## Features of **Online Pharmacy**
-1) Buying medicines, babycare and healthcare products.
-2) Upload prescription to buy medicines.
-3) Read and post healthcare related blogs/articles.
-4) Online chat with the moderators.
-5) Get reward points on order completion.
-6) Get refund for order cancellation.
-7) An eWallet for each user.
+### Users: 
+* Registration
+* Login
+* Profile CRUD
+* E-wallet
+* Prescription (Upload, History)
+* Online Chat
+* Products ( Show, Search)
+* Cart (Show, Delete)
+* Reward
+* Refund
+* Order History
+### Admin: 
+* Profile (CRUD)
+* Dashboard (Total user, Total post, Total product, Recent Order, Active User)
+* Statistics (Revenue, Order, Sell)
+* Product Add
+* Show user, moderator details
+
 
 ## Tools we used
 1) Front-end: HTML, CSS, JavaScript, Bootstrap.
