@@ -75,8 +75,8 @@ along with the Database (.sql file) of the project is stored in this repository.
 * Project Proposal
 * Benchmark Analysis
 * Feasibility Analysis
-* Project Management Tools
-* UML Diagrams
+* Project Management Tools (Comparison of different pm. tools and picked one for our project)
+* UML Diagrams (Use case, Class, Sequence, State Diagram)
 * Screenshots of the project
 
 ---
