@@ -1,6 +1,6 @@
 
 # Glimpse of the Website
-<div align="center">
+<!-- <div align="center">
     <div style="display: flex;">
         <img src="ScreenShots/Online_Pharmacy_00.PNG" width="480" height="400" alt="Sign-up-page">
         <img src="ScreenShots/Online_Pharmacy_01.PNG" width="480" height="400" alt="Home-page-navbar">
@@ -53,7 +53,10 @@
         <img src="ScreenShots/Online_Pharmacy_16.PNG" width="480" height="400" alt="Admin-products-view-page">
         <img src="ScreenShots/Online_Pharmacy_17.PNG" width="480" height="400" alt="Admin-total-sells-view-page">
     </div>
-</div>Sign-up-page
+</div>Sign-up-page -->
+![project](https://user-images.githubusercontent.com/68915904/136135857-ab7f9c5c-6c57-4460-884c-b4d12a70e470.gif)
+
+
 
 # Online_Pharmacy
 A website where medicine, healthcare and babycare products can be bought online, and many more 
